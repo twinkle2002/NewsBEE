@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @twinkle2002
+- 👋 Hi, I’m Twinkle MS
 - 👀 I’m interested in designing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on designing websites
