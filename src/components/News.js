@@ -16,10 +16,6 @@ const News = (props)=> {
         return string.charAt(0).toUpperCase() + string.slice(1);
       }
 
-    
-
-    
-
     const updateNews = async ()=> {
         props.setProgress(10);
         const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apikey}&page=${page}&$(props.pageSize)`;
@@ -42,19 +38,19 @@ const News = (props)=> {
         updateNews();
     }, [])
     
-    const handlePrevClick = async ()=>{
+    // const handlePrevClick = async ()=>{
 
-        setState(page - 1);
-        updateNews();
+    //     setState(page - 1);
+    //     updateNews();
 
-    }
+    // }
     
-    const handleNextClick = async ()=>{ 
+    // const handleNextClick = async ()=>{ 
     
-        setState(page + 1);
-        updateNews();
+    //     setState(page + 1);
+    //     updateNews();
 
-        }
+    //     }
 
         const fetchMoreData = async () => {
             
