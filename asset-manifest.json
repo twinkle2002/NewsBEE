@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewsBEE/static/css/main.8321a193.chunk.css",
+    "main.js": "/NewsBEE/static/js/main.196237a5.chunk.js",
+    "main.js.map": "/NewsBEE/static/js/main.196237a5.chunk.js.map",
+    "runtime-main.js": "/NewsBEE/static/js/runtime-main.bad00b84.js",
+    "runtime-main.js.map": "/NewsBEE/static/js/runtime-main.bad00b84.js.map",
+    "static/js/2.1dc3abbb.chunk.js": "/NewsBEE/static/js/2.1dc3abbb.chunk.js",
+    "static/js/2.1dc3abbb.chunk.js.map": "/NewsBEE/static/js/2.1dc3abbb.chunk.js.map",
+    "static/js/3.1686862b.chunk.js": "/NewsBEE/static/js/3.1686862b.chunk.js",
+    "static/js/3.1686862b.chunk.js.map": "/NewsBEE/static/js/3.1686862b.chunk.js.map",
+    "index.html": "/NewsBEE/index.html",
+    "static/css/main.8321a193.chunk.css.map": "/NewsBEE/static/css/main.8321a193.chunk.css.map",
+    "static/js/2.1dc3abbb.chunk.js.LICENSE.txt": "/NewsBEE/static/js/2.1dc3abbb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bad00b84.js",
+    "static/js/2.1dc3abbb.chunk.js",
+    "static/css/main.8321a193.chunk.css",
+    "static/js/main.196237a5.chunk.js"
+  ]
+}
