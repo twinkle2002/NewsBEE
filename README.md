@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Twinkle MS
+- 👋 Hi, I’m Twinkle Manju S
 - 👀 I’m interested in designing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on designing websites
